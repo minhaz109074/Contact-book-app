@@ -1,6 +1,6 @@
 # Contact Book APP - A Futter project
 
-features
+Features
  - login/signup with proper validation
  - logout
  - Create, Read, Update, Delete Contact
@@ -12,10 +12,18 @@ features
 Note: This app need permission to read the device contacts. Click allow when the app wants permisson so that the app can run smoothly. 
 
 # Screenshots
-<img src="screenshots/login.jpg" width="300">   <img src="screenshots/signup.jpg" width="300">  <img src="screenshots/contact_list.jpg" width="300">  
-
-<img src="screenshots/contact_details.jpg" width="300">  <img src="screenshots/add_contact.jpg" width="300">  <img src="screenshots/Edit_delete_contact.jpg" width="300">  
-
+<p float="left">
+  <img src="screenshots/login.jpg" width="200">   
+  <img src="screenshots/signup.jpg" width="200">  
+ </p>
+<p float="left">
+  <img src="screenshots/contact_list.jpg" width="200">  
+  <img src="screenshots/contact_details.jpg" width="200">
+</p>
+<p float="left">
+  <img src="screenshots/add_contact.jpg" width="200">  
+  <img src="screenshots/Edit_delete_contact.jpg" width="200">  
+</p>
 
 
 
